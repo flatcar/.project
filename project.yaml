@@ -27,7 +27,7 @@ repositories: # TODO: AUTO-DETECTED primary — please verify
 
 website: "https://www.flatcar.org/"
 
-artwork: "https://landscape.cncf.io/logos/flatcar.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/flatcar"
 
 # TODO: Add ADOPTERS.md if your project tracks adopters
 # adopters:
